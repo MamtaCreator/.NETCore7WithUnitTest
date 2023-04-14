@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "PtK/vDKGi8doA6OtKKAQoxkfBJpZkrvsDOgqVJtUFfq1o/yMZiJNsWfccPX6AHzYSo/SgWRj7d6I2jPmEjntyg==",
+  "dgSpecHash": "fp7V2IP3C8jQx8+lHXPJNFedyCY38egIEa04M5+8wVt9/hVboFmR61toG+L8RG8hLq6VoHMhBFnStc8850HrUQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\MamtaY\\source\\repos\\.NETCore7WithUnitTest\\NETCore_7\\LoginMiddleware\\LoginMiddleware\\LoginMiddleware.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MamtaY\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\MamtaY\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\MamtaY\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\MamtaY\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\MamtaY\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\MamtaY\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

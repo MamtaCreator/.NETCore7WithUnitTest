@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MamtaY\\source\\repos\\.NETCore7WithUnitTest\\NETCore_7\\LoginMiddleware\\LoginMiddleware\\LoginMiddleware.csproj": {}
+    "C:\\Users\\MamtaY\\source\\repos\\.NETCore7WithUnitTest\\NETCore_7\\LoginMiddleware\\xUnitPract\\xUnitPract.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MamtaY\\source\\repos\\.NETCore7WithUnitTest\\NETCore_7\\LoginMiddleware\\LoginMiddleware\\LoginMiddleware.csproj": {
+    "C:\\Users\\MamtaY\\source\\repos\\.NETCore7WithUnitTest\\NETCore_7\\LoginMiddleware\\xUnitPract\\xUnitPract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MamtaY\\source\\repos\\.NETCore7WithUnitTest\\NETCore_7\\LoginMiddleware\\LoginMiddleware\\LoginMiddleware.csproj",
-        "projectName": "LoginMiddleware",
-        "projectPath": "C:\\Users\\MamtaY\\source\\repos\\.NETCore7WithUnitTest\\NETCore_7\\LoginMiddleware\\LoginMiddleware\\LoginMiddleware.csproj",
+        "projectUniqueName": "C:\\Users\\MamtaY\\source\\repos\\.NETCore7WithUnitTest\\NETCore_7\\LoginMiddleware\\xUnitPract\\xUnitPract.csproj",
+        "projectName": "xUnitPract",
+        "projectPath": "C:\\Users\\MamtaY\\source\\repos\\.NETCore7WithUnitTest\\NETCore_7\\LoginMiddleware\\xUnitPract\\xUnitPract.csproj",
         "packagesPath": "C:\\Users\\MamtaY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MamtaY\\source\\repos\\.NETCore7WithUnitTest\\NETCore_7\\LoginMiddleware\\LoginMiddleware\\obj\\",
+        "outputPath": "C:\\Users\\MamtaY\\source\\repos\\.NETCore7WithUnitTest\\NETCore_7\\LoginMiddleware\\xUnitPract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,12 +44,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Http.Abstractions": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
