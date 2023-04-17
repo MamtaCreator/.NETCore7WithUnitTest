@@ -5,13 +5,15 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoginMiddleware", "LoginMiddleware\LoginMiddleware.csproj", "{0E81C9FC-8178-46FC-9B51-B01E9EF12897}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnitPract", "xUnitPract\xUnitPract.csproj", "{275907B8-FA6E-4499-BC9B-0C9632083F34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xUnitPract", "xUnitPract\xUnitPract.csproj", "{275907B8-FA6E-4499-BC9B-0C9632083F34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XunitPracProject", "XunitPracProject\XunitPracProject.csproj", "{3F5542DF-094E-42AD-B668-067A712133CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XunitPracProject", "XunitPracProject\XunitPracProject.csproj", "{3F5542DF-094E-42AD-B668-067A712133CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{7FCA71A3-D725-4E63-96A6-04F31B5CAE8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{7FCA71A3-D725-4E63-96A6-04F31B5CAE8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceContract", "ServiceContract\ServiceContract.csproj", "{025F9E43-C37B-45A3-B5DB-1783F2C3E4DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceContract", "ServiceContract\ServiceContract.csproj", "{025F9E43-C37B-45A3-B5DB-1783F2C3E4DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{5E127C52-D7C0-4CD7-92A3-16643F0A2E36}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{025F9E43-C37B-45A3-B5DB-1783F2C3E4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{025F9E43-C37B-45A3-B5DB-1783F2C3E4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{025F9E43-C37B-45A3-B5DB-1783F2C3E4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E127C52-D7C0-4CD7-92A3-16643F0A2E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E127C52-D7C0-4CD7-92A3-16643F0A2E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E127C52-D7C0-4CD7-92A3-16643F0A2E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E127C52-D7C0-4CD7-92A3-16643F0A2E36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

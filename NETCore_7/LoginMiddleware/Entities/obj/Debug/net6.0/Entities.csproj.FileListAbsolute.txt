@@ -1,0 +1,12 @@
+C:\Users\MamtaY\source\repos\.NETCore7WithUnitTest\NETCore_7\LoginMiddleware\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\MamtaY\source\repos\.NETCore7WithUnitTest\NETCore_7\LoginMiddleware\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\MamtaY\source\repos\.NETCore7WithUnitTest\NETCore_7\LoginMiddleware\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\MamtaY\source\repos\.NETCore7WithUnitTest\NETCore_7\LoginMiddleware\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\MamtaY\source\repos\.NETCore7WithUnitTest\NETCore_7\LoginMiddleware\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MamtaY\source\repos\.NETCore7WithUnitTest\NETCore_7\LoginMiddleware\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\MamtaY\source\repos\.NETCore7WithUnitTest\NETCore_7\LoginMiddleware\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\MamtaY\source\repos\.NETCore7WithUnitTest\NETCore_7\LoginMiddleware\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\MamtaY\source\repos\.NETCore7WithUnitTest\NETCore_7\LoginMiddleware\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\MamtaY\source\repos\.NETCore7WithUnitTest\NETCore_7\LoginMiddleware\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\MamtaY\source\repos\.NETCore7WithUnitTest\NETCore_7\LoginMiddleware\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\MamtaY\source\repos\.NETCore7WithUnitTest\NETCore_7\LoginMiddleware\Entities\obj\Debug\net6.0\ref\Entities.dll

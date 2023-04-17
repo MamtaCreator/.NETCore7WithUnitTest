@@ -12,10 +12,11 @@ namespace ServiceContract.DTO
     /// </summary>
     public class CountryAddRequest
     {
-       public string? CountryName { get; set; }
+        public string? CountryName { get; set; }
 
         public Country ToCountry()
         {
             return new Country() { CountryName = CountryName };
+        }
     }
 }

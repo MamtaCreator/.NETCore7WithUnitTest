@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "ETZ5NDrvelIwh4JfPGkAjnAAWfMfXMb5P/kf1Wkx+9Q=",
+  "Source": "xUnitPract",
+  "BasePath": "_content/xUnitPract",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "xUnitPract\\wwwroot",
+      "Source": "xUnitPract",
+      "ContentRoot": "C:\\Users\\MamtaY\\source\\repos\\.NETCore7WithUnitTest\\NETCore_7\\LoginMiddleware\\xUnitPract\\wwwroot\\",
+      "BasePath": "_content/xUnitPract",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\MamtaY\\source\\repos\\.NETCore7WithUnitTest\\NETCore_7\\LoginMiddleware\\xUnitPract\\wwwroot\\styleSheet.css",
+      "SourceId": "xUnitPract",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MamtaY\\source\\repos\\.NETCore7WithUnitTest\\NETCore_7\\LoginMiddleware\\xUnitPract\\wwwroot\\",
+      "BasePath": "_content/xUnitPract",
+      "RelativePath": "styleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styleSheet.css"
+    }
+  ]
+}
