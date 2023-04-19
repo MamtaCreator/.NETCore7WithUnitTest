@@ -133,5 +133,42 @@ namespace XunitPracProject
 
         #endregion
 
+        #region GetCountryByCountryId
+
+        // if we supply null countryId it should null countryresponse.
+        [Fact]
+        public void GetCountryByCountryId_NullCountryId()
+        {
+            //arrange
+            Guid? countryId = null;
+
+            //act
+          CountryResponse? countryResponseFromGetMethod =  _countriesService.GetCountryByCountryID(countryId);
+
+             //assert
+          Assert.Null(countryResponseFromGetMethod);
+            
+
+
+        }
+        [Fact]
+        // if we supply a valid countryId , it should return the matching country details as CountryResponse object
+        public void GetCountryByCountryId_ValidCountryId()
+        {
+            //arrange
+            CountryAddRequest? countryAddRequest = new CountryAddRequest()
+            { CountryName = "China" };
+            CountryResponse countryResponseFromAdd = _countriesService.addCountry(countryAddRequest);
+
+
+
+            //act
+           CountryResponse? countryResponseFromGet = _countriesService.GetCountryByCountryID(countryResponseFromAdd.CountryId);
+            //assert
+            Assert.Equal(countryResponseFromAdd, countryResponseFromGet);
+        }
+        
+        #endregion
+
     }
 }
